@@ -1,0 +1,7 @@
+{
+  "name": "NutriLead",
+  "description": "Ваш персональный гид по здоровому питанию. Персонализированные рационы на базе ИИ.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
